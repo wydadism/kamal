@@ -4,7 +4,6 @@ import {
   Link,
   List,
   ListItem,
-  SimpleGrid,
   UnorderedList,
   Heading,
   Center
@@ -89,4 +88,4 @@ const Work = () => (
   </Layout>
 )
 
-export default Work
+
